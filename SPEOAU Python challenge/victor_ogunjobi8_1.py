@@ -1,8 +1,10 @@
+""" QUIZ: Sorting by index"""
+
 import itertools
 
 
-first_input= input() 
-second_input= int(input())
+first_input= input("Enter any word:") 
+second_input= int(input("The postion you want by which you want to sort e.g 2:"))
 
 addthem = []
 

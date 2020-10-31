@@ -8,7 +8,7 @@ for i in range(2,101):
         printit = (j**i)
         #print(printit)
         keepthem.append(printit)
-        #print(keepthem)
+
 
 
 #print("Unique characters are:", unique(keepthem))  #This is not necessary to print.
